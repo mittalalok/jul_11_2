@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="tb1" max_length="40" name="sn_jul_11_2_tb1" type="collection">
-        <element choice="1" label="choiceSet" max_length="20" name="choiceset" type="choice">
-            <choice/>
-        </element>
         <element label="INDEX" max_length="10" name="index" type="sys_class_name"/>
         <index name="index">
             <element name="index"/>
